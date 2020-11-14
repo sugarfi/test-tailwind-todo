@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "jsx": "react",
+        "esModuleInterop": true
+    },
+    "files": [
+        "src/index.tsx",
+        "src/App.tsx",
+        "src/Tabs.tsx",
+        "src/ItemList.tsx"
+    ]
+}
